@@ -35,11 +35,11 @@ class BoardMember {
     }
 
     sayHi() {
-    super.sayHi();  
+    super.sayHi();
     }
 
     hireEmployee() {
-      
+      return "Welcome aboard!"
     }
 
   }
