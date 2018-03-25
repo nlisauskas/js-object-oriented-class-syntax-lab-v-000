@@ -29,13 +29,17 @@ class BoardMember {
     }
 
     doCharity() {super.doCharity();}
-    
+
     releasePressStatement() {
-    super.releasePressStatement();  
+    super.releasePressStatement();
     }
-    
+
     sayHi() {
     super.sayHi();  
     }
-    
+
+    hireEmployee() {
+      
+    }
+
   }
