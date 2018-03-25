@@ -22,7 +22,8 @@ class BoardMember {
   }
 
   class Ceo extends BoardMember {
-    super.veto();
+    veto() {super.veto();}
+
     super.approve();
     super.doCharity();
     super.releasePressStatement();
